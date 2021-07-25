@@ -1,0 +1,19 @@
+.panda-bg{
+   background-color: #fceae8;
+}
+.btn-pink{
+    background-image: linear-gradient(#fceae8, #ff438d);
+    color: white;
+    border: 0px;
+
+}
+.col-lg-7 h2{
+    color: #ff438d;
+}
+.btn-submit{
+    background-color: #ff438d;
+    padding-top: 3px;
+    border-radius: 3px;
+    border: 0px;
+    margin-top: 5px;
+}
